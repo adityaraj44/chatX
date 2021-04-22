@@ -1,0 +1,17 @@
+{
+    "name": "ChatX-Web",
+    "short_name": "ChatX-Web",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#4169e1",
+    "description":"ChatX-Web",
+    "theme_color": "#fff",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "./chat.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+    
+  }
